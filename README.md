@@ -4,6 +4,10 @@ This is a simple command-line Tic-Tac-Toe game implemented in Python.
 
 **Author: SURYADIP BERA**
 
+## Description
+
+This project is a basic implementation of the classic Tic-Tac-Toe game played in the command line. The computer plays as 'X' and always starts by placing its first move in the center of the board. The user plays as 'O' and inputs their moves by selecting a numbered square on the board. The game checks for wins, ties, and valid moves, and the computer makes random moves without any AI strategy. This simple game demonstrates basic Python programming concepts such as input validation, game state management, and random choice.
+
 ## Features
 
 - The computer plays as 'X' and always makes the first move by placing 'X' in the middle of the board.
